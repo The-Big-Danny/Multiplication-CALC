@@ -25,4 +25,4 @@ the multiplication result.
 
 Or view live via GitHub Pages: Live Demo
 ## 🔗 Live Preview  
-👉 [View Portfolio](https://the-big-danny.github.io/Multiplication-CALC/)
+👉 [View Calculator](https://the-big-danny.github.io/Multiplication-CALC/)
